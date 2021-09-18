@@ -1,6 +1,6 @@
 # spacex-client-scala
 
-Unofficial CLI client written in Haskell for SpaceX Apis: https://github.com/r-spacex/SpaceX-API
+Unofficial CLI client written in Scala3 + CE3 for SpaceX Apis: https://github.com/r-spacex/SpaceX-API
 
 ## Run the tests
 
